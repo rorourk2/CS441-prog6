@@ -152,7 +152,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="John Doe" />
+            android:text="A" />
 
         <EditText
             android:id="@+id/editText3"
@@ -160,7 +160,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Jane Doe" />
+            android:text="B" />
 
         <EditText
             android:id="@+id/editText4"
@@ -168,7 +168,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Batman" />
+            android:text="C" />
 
         <EditText
             android:id="@+id/editText5"
@@ -176,7 +176,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Joe Person" />
+            android:text="D" />
 
         <EditText
             android:id="@+id/editText6"
@@ -184,7 +184,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Masked Stranger" />
+            android:text="E" />
 
         <EditText
             android:id="@+id/editText7"
@@ -192,7 +192,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Unmasked Stranger" />
+            android:text="F" />
 
         <EditText
             android:id="@+id/editText8"
@@ -200,7 +200,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="AAAAAAAA" />
+            android:text="G" />
 
         <EditText
             android:id="@+id/editText9"
@@ -208,7 +208,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Text View" />
+            android:text="H" />
 
         <EditText
             android:id="@+id/editText10"
@@ -216,7 +216,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Input String" />
+            android:text="I" />
 
         <EditText
             android:id="@+id/editText11"
@@ -224,7 +224,7 @@
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="I Ran Out of Names" />
+            android:text="J" />
     </LinearLayout>
 
     <TextView
